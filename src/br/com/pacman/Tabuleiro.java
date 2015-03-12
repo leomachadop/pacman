@@ -9,11 +9,9 @@ public class Tabuleiro {
                     for (int j = 0; j < 17; j++) {
                         if (i == 0 || j == 0) {
                             tabuleiro[i][j] = '#';
-                        }
-                        else if (i == 16 || j == 16) {
+                        } else if (i == 16 || j == 16) {
                             tabuleiro[i][j] = '#';
-                        }
-                        else {
+                        } else {
                             tabuleiro[i][j] = '*';
                         }
                     }
