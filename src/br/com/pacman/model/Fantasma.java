@@ -1,4 +1,4 @@
-package br.com.pacman;
+package br.com.pacman.model;
 
 public class Fantasma {
 

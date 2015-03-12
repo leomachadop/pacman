@@ -1,6 +1,8 @@
 package br.com.pacman;
 
-public class TesteJogo {
+import br.com.pacman.model.Tabuleiro;
+
+public class PacmanMain {
 
     public static void main(String[] args) {
         Tabuleiro tab = new Tabuleiro();
